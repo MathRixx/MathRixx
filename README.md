@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: __German, Java,...__
 - 💬 Ask me about __What ever you want__
 - 🤔 I’m looking for help with __learning some programing languages__
-- 📫 How to reach me: __@furkanhasanusta__
-<br/>
+- 📫 How to reach me: __@furkanhasanusta__ , __furkanhasanusta@proit.com.tr__
+
 
 
 
